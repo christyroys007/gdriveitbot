@@ -1,6 +1,6 @@
-#  Gdrive it bot
+#  [Gdrive it bot](https://t.me/gdriveit_bot)
 
-This is a telegram bot that can manage one's Google drive right from telegram. It can also upload files to his/her drive
+This is a telegram bot that can manage one's Google drive right from telegram. It can also upload files to his/her drive.
 
 ## Privacy policy
 

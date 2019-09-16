@@ -1,6 +1,6 @@
 #  [Google Drive Uploader](https://t.me/gdriveit_bot "Google Drive Uploader")
 
-Gdriveit_bot is a telegram bot that assist one to manage his / her Google Drive right from Telegram.
+Gdriveit_bot is a telegram bot that assists one to manage his / her Google Drive right from Telegram.
 
 ## Privacy policy
 At Gdriveit_bot, accessible from https://t.me/gdriveit_bot, one of the main priorities is the privacy of its users. This Privacy Policy document contains types of information that is collected and recorded by the developer and how its used.
